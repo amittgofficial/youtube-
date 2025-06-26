@@ -1,0 +1,20 @@
+{
+  "name": "YouTube Shortcut",
+  "short_name": "YouTube",
+  "start_url": "https://www.youtube.com",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#ff0000",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh76Y1woXNm_u56dhcxnfEIp6PurzaQjkVklyM-iVjROYWphMsmOPQNkaZcUvEjaE9jPwQ7w-J9fk2bij33rrw1lowicH3WYMTsWolXnVOksJODn5wfAyk67MEAJ-GVvUUlNbpddFJIJROYyIzf3T-8KWlbtq_lZgqdVXo-sLFnnr7SNaaboiiHUFCvC6La/s256/1000003327.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh76Y1woXNm_u56dhcxnfEIp6PurzaQjkVklyM-iVjROYWphMsmOPQNkaZcUvEjaE9jPwQ7w-J9fk2bij33rrw1lowicH3WYMTsWolXnVOksJODn5wfAyk67MEAJ-GVvUUlNbpddFJIJROYyIzf3T-8KWlbtq_lZgqdVXo-sLFnnr7SNaaboiiHUFCvC6La/s256/1000003327.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
